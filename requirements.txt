@@ -1,0 +1,5 @@
+# No external dependencies required
+# AutoDock Vina Pose Extractor uses only Python standard library modules
+
+# Python version: 3.6+
+# Required modules: argparse, csv, pathlib, re (all included with Python)
